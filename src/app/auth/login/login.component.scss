@@ -1,0 +1,40 @@
+.container {
+    width: 100%;
+    justify-content: center;
+}
+
+.header {
+    padding: 20px;
+    background-color: #ff0065;
+    color: white;
+}
+
+.body mat-form-field {
+    width: 100%;
+}
+
+.body {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.body>div {
+    width: 350px;
+}
+
+h1,
+h5 {
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.button button {
+    width: 60%;
+    height: 50px;
+    font-size: 20px;
+}
